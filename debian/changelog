@@ -1,0 +1,5 @@
+xilinx-isp-module (0.1-0xlnx1) jammy; urgency=medium
+
+  * Initial release
+
+ -- Sagar Karmarkar <sagar.Karmarkar@amd.com>  Mon, 11 Mar 2024 12:50:35 -0800
